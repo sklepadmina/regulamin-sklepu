@@ -193,7 +193,7 @@ Poniżej znajduje się wzór formularza odstąpienia od umowy, z którego Konsum
 
 TRUSSTAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ  
 ul. Marii Konopnickiej 11, 55-020 Bogunów  
-adres e-mail: shop@sklepadmina.pl
+adres e-mail: kontakt@sklepadmina.pl
 
 \- Ja/My(\*) ..................................................................... niniejszym informuję/informujemy(\*) o moim/naszym odstąpieniu od umowy sprzedaży następujących rzeczy(\*) / o świadczenie następującej usługi(\*) / o dostarczanie treści cyfrowych w postaci(\*):
 
@@ -255,7 +255,7 @@ w sklepie Sklep Admina
 **§ 2 KONTAKT ZE SPRZEDAWCĄ**
 
 1.  Adres pocztowy: ul. Marii Konopnickiej 11, 55-020 Bogunów
-2.  Adres e-mail: shop@sklepadmina.pl
+2.  Adres e-mail: kontakt@sklepadmina.pl
 3.  Telefon: 797966506
 
 **§ 3 WYMOGI TECHNICZNE**
@@ -273,11 +273,11 @@ w sklepie Sklep Admina
 3.  W celu założenia Konta należy wypełnić stosowny formularz w Sklepie.
 4.  W momencie założenia Konta zawierana jest na czas nieokreślony pomiędzy Kupującym a Sprzedawcą umowa w zakresie prowadzenia Konta na zasadach wskazanych w Regulaminie.
 5.  Kupujący może bez ponoszenia jakichkolwiek kosztów w każdym czasie zrezygnować z Konta.
-6.  W celu dokonania rezygnacji z Konta należy wysłać swoją rezygnację do Sprzedawcy na adres e-mail: shop@sklepadmina.pl, czego skutkiem będzie niezwłoczne usunięcie Konta oraz rozwiązanie umowy w zakresie prowadzenia Konta.
+6.  W celu dokonania rezygnacji z Konta należy wysłać swoją rezygnację do Sprzedawcy na adres e-mail: kontakt@sklepadmina.pl, czego skutkiem będzie niezwłoczne usunięcie Konta oraz rozwiązanie umowy w zakresie prowadzenia Konta.
 
 **§ 5 REKLAMACJE**
 
-1.  Reklamacje dotyczące funkcjonowania Konta należy kierować na adres e-mail shop@sklepadmina.pl.
+1.  Reklamacje dotyczące funkcjonowania Konta należy kierować na adres e-mail kontakt@sklepadmina.pl.
 2.  Rozpatrzenie reklamacji przez Sprzedawcę nastąpi w terminie do 14 dni.  
       
     **POZASĄDOWE SPOSOBY ROZPATRYWANIA REKLAMACJI I DOCHODZENIA ROSZCZEŃ**
@@ -321,7 +321,7 @@ w sklepie Sklep Admina
     2.  poprawa bezpieczeństwa świadczonej usługi
     3.  zmiana funkcjonalności Konta wymagająca modyfikacji Regulaminu.
 5.  Kupujący zostanie poinformowany o planowanej zmianie Regulaminu co najmniej na 7 dni przed wprowadzeniem zmiany w życie za pośrednictwem wiadomości e-mail wysłanej na przypisany do Konta adres.
-6.  W przypadku gdy Kupujący nie wyrazi akceptacji dla planowanej zmiany, powinien poinformować o tym Sprzedawcę poprzez wysłanie odpowiedniej wiadomości na adres e-mail Sprzedawcy shop@sklepadmina.pl, czego skutkiem będzie rozwiązanie umowy w zakresie prowadzenia Konta z chwilą wejścia w życie planowanej zmiany lub wcześniej, jeśli Kupujący zgłosi takie żądanie.
+6.  W przypadku gdy Kupujący nie wyrazi akceptacji dla planowanej zmiany, powinien poinformować o tym Sprzedawcę poprzez wysłanie odpowiedniej wiadomości na adres e-mail Sprzedawcy kontakt@sklepadmina.pl, czego skutkiem będzie rozwiązanie umowy w zakresie prowadzenia Konta z chwilą wejścia w życie planowanej zmiany lub wcześniej, jeśli Kupujący zgłosi takie żądanie.
 7.  W sytuacji gdy Kupujący nie wyrazi sprzeciwu dla planowanej zmiany do chwili wejścia jej w życie przyjmuje się, że akceptuje ją, co nie stanowi żadnej przeszkody do rozwiązania umowy w przyszłości.
 8.  W przypadku ewentualnego sporu z Kupującym niebędącym Kupującym uprzywilejowanym, sądem właściwym będzie sąd właściwy dla siedziby Sprzedawcy.
 Regulamin sklepu internetowego Sklepadmina
@@ -518,7 +518,7 @@ Poniżej znajduje się wzór formularza odstąpienia od umowy, z którego Konsum
 
 TRUSSTAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ  
 ul. Marii Konopnickiej 11, 55-020 Bogunów  
-adres e-mail: shop@sklepadmina.pl
+adres e-mail: kontakt@sklepadmina.pl
 
 \- Ja/My(\*) ..................................................................... niniejszym informuję/informujemy(\*) o moim/naszym odstąpieniu od umowy sprzedaży następujących rzeczy(\*) / o świadczenie następującej usługi(\*) / o dostarczanie treści cyfrowych w postaci(\*):
 
@@ -580,7 +580,7 @@ w sklepie Sklep Admina
 **§ 2 KONTAKT ZE SPRZEDAWCĄ**
 
 1.  Adres pocztowy: ul. Marii Konopnickiej 11, 55-020 Bogunów
-2.  Adres e-mail: shop@sklepadmina.pl
+2.  Adres e-mail: kontakt@sklepadmina.pl
 3.  Telefon: 797966506
 
 **§ 3 WYMOGI TECHNICZNE**
@@ -598,11 +598,11 @@ w sklepie Sklep Admina
 3.  W celu założenia Konta należy wypełnić stosowny formularz w Sklepie.
 4.  W momencie założenia Konta zawierana jest na czas nieokreślony pomiędzy Kupującym a Sprzedawcą umowa w zakresie prowadzenia Konta na zasadach wskazanych w Regulaminie.
 5.  Kupujący może bez ponoszenia jakichkolwiek kosztów w każdym czasie zrezygnować z Konta.
-6.  W celu dokonania rezygnacji z Konta należy wysłać swoją rezygnację do Sprzedawcy na adres e-mail: shop@sklepadmina.pl, czego skutkiem będzie niezwłoczne usunięcie Konta oraz rozwiązanie umowy w zakresie prowadzenia Konta.
+6.  W celu dokonania rezygnacji z Konta należy wysłać swoją rezygnację do Sprzedawcy na adres e-mail: kontakt@sklepadmina.pl, czego skutkiem będzie niezwłoczne usunięcie Konta oraz rozwiązanie umowy w zakresie prowadzenia Konta.
 
 **§ 5 REKLAMACJE**
 
-1.  Reklamacje dotyczące funkcjonowania Konta należy kierować na adres e-mail shop@sklepadmina.pl.
+1.  Reklamacje dotyczące funkcjonowania Konta należy kierować na adres e-mail kontakt@sklepadmina.pl.
 2.  Rozpatrzenie reklamacji przez Sprzedawcę nastąpi w terminie do 14 dni.  
       
     **POZASĄDOWE SPOSOBY ROZPATRYWANIA REKLAMACJI I DOCHODZENIA ROSZCZEŃ**
@@ -646,6 +646,6 @@ w sklepie Sklep Admina
     2.  poprawa bezpieczeństwa świadczonej usługi
     3.  zmiana funkcjonalności Konta wymagająca modyfikacji Regulaminu.
 5.  Kupujący zostanie poinformowany o planowanej zmianie Regulaminu co najmniej na 7 dni przed wprowadzeniem zmiany w życie za pośrednictwem wiadomości e-mail wysłanej na przypisany do Konta adres.
-6.  W przypadku gdy Kupujący nie wyrazi akceptacji dla planowanej zmiany, powinien poinformować o tym Sprzedawcę poprzez wysłanie odpowiedniej wiadomości na adres e-mail Sprzedawcy shop@sklepadmina.pl, czego skutkiem będzie rozwiązanie umowy w zakresie prowadzenia Konta z chwilą wejścia w życie planowanej zmiany lub wcześniej, jeśli Kupujący zgłosi takie żądanie.
+6.  W przypadku gdy Kupujący nie wyrazi akceptacji dla planowanej zmiany, powinien poinformować o tym Sprzedawcę poprzez wysłanie odpowiedniej wiadomości na adres e-mail Sprzedawcy kontakt@sklepadmina.pl, czego skutkiem będzie rozwiązanie umowy w zakresie prowadzenia Konta z chwilą wejścia w życie planowanej zmiany lub wcześniej, jeśli Kupujący zgłosi takie żądanie.
 7.  W sytuacji gdy Kupujący nie wyrazi sprzeciwu dla planowanej zmiany do chwili wejścia jej w życie przyjmuje się, że akceptuje ją, co nie stanowi żadnej przeszkody do rozwiązania umowy w przyszłości.
 8.  W przypadku ewentualnego sporu z Kupującym niebędącym Kupującym uprzywilejowanym, sądem właściwym będzie sąd właściwy dla siedziby Sprzedawcy.
